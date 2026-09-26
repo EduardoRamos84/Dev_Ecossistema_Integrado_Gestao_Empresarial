@@ -1,12 +1,20 @@
 # REGISTRO MESTRE DE PENDÊNCIAS
 
-**REG-PENDENCIAS v0.22 | 21/09/2026 | MINUTA — NÃO PUBLICADO**
+**REG-PENDENCIAS v0.22 | Preparada em 21/09/2026; aceita e publicada em 26/09/2026**
 
 **Evento documental candidato:** POS-ESC-F05-07_2026-09-21.
 
 **Antecessor:** REG-PENDENCIAS v0.21, aceito e publicado; 172681 bytes; SHA-256 8648ed7a3cd6cdba56a7d9a57b690abc8321016d21880adf767427174d6412a8; preservado integralmente na Parte II.
 
-**Situação:** SUCESSOR PREPARADO PARA REVISÃO — ESC-F05-07 CONCLUÍDO DOCUMENTALMENTE COM RESSALVAS — ALTERNATIVA A DE E7-05 v0.2 — FASE 05 ABERTA — SEM IMPLEMENTAÇÃO.
+**Situação:** OFICIAL VIGENTE — ACEITO E PUBLICADO EM 26/09/2026 — ESC-F05-07 CONCLUÍDO DOCUMENTALMENTE COM RESSALVAS — FASE 05 ABERTA.
+
+## VIGÊNCIA APROVADA — 26/09/2026
+
+Por manifestação expressa do responsável humano em 26/09/2026, a linha oficial vigente passa a ser `REG-CONSOLIDACAO-CHATS v0.23 / REG-DECISOES v0.27 / REG-PENDENCIAS v0.22`. Esta atualização substitui somente a indicação de vigência anterior constante do corte de 21/09/2026; preserva integralmente o relato histórico abaixo e os demais limites deste registro.
+
+A linha candidata `REG-CONSOLIDACAO-CHATS v0.24 / REG-DECISOES v0.28 / REG-PENDENCIAS v0.23` permanece em minuta, não aceita e não vigente. Seus arquivos são preservados sem alteração para revisão futura.
+
+A ocorrência `EXEC-FUNC-B-09`, a interrupção própria de B-08 e os limites da conferência constam no [registro complementar de 26/09/2026](REG-COMPLEMENTAR-CONFERENCIA-EXEC-FUNC-B-09_E_STATUS-LINHA-MESTRE_v0.1_2026-09-26.md).
 
 ## PARTE I — RECONCILIAÇÃO PROSPECTIVA PÓS-ESC-F05-07
 
