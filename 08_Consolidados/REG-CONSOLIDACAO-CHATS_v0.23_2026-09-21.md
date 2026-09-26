@@ -10,7 +10,7 @@
 
 ## VIGÊNCIA APROVADA — 26/09/2026
 
-Por manifestação expressa do responsável humano em 26/09/2026, a linha oficial vigente passa a ser `REG-CONSOLIDACAO-CHATS v0.23 / REG-DECISOES v0.27 / REG-PENDENCIAS v0.22`. Esta atualização substitui somente a indicação de vigência anterior constante do corte de 21/09/2026; preserva integralmente o relato histórico abaixo e os demais limites deste registro.
+Por manifestação expressa do responsável humano em 26/09/2026, a linha oficial vigente passa a ser `REG-CONSOLIDACAO-CHATS v0.23 / REG-DECISOES v0.27 / REG-PENDENCIAS v0.22`. Esta atualização substitui, a partir de 26/09/2026, as declarações de que estes três arquivos estavam apenas preparados para revisão e ainda não tinham aceite/publicação, assim como a indicação de vigência anterior que constam no corte de 21/09/2026. O relato histórico abaixo permanece integral, identificado como estado daquele corte; as demais ressalvas e limites de escopo que não conflitam com a aceitação e publicação aqui registradas permanecem vigentes.
 
 A linha candidata `REG-CONSOLIDACAO-CHATS v0.24 / REG-DECISOES v0.28 / REG-PENDENCIAS v0.23` permanece em minuta, não aceita e não vigente. Seus arquivos são preservados sem alteração para revisão futura.
 
